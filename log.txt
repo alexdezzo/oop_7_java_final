@@ -1,0 +1,28 @@
+июл. 15, 2024 6:26:32 PM view.CalcView createComplexNumber
+INFO: Получение комплексных чисел из строки
+июл. 15, 2024 6:26:32 PM view.CalcView Start
+INFO: Получение выражения из консоли
+июл. 15, 2024 6:28:19 PM view.CalcView createComplexNumber
+INFO: Получение комплексных чисел из строки
+июл. 15, 2024 6:28:19 PM view.CalcView Start
+INFO: Получение выражения из консоли
+июл. 15, 2024 6:28:19 PM view.CalcView SumComplexNum
+INFO: Получение суммы: model.ComplexNum@4f2410ac и model.ComplexNum@722c41f4
+июл. 15, 2024 6:31:44 PM view.CalcView createComplexNumber
+INFO: Получение комплексных чисел из строки
+июл. 15, 2024 6:31:44 PM view.CalcView Start
+INFO: Получение выражения из консоли
+июл. 15, 2024 6:31:44 PM view.CalcView SumComplexNum
+INFO: Получение суммы: ( 3.0, 1.0i ) и ( 2.0, 2.0i )
+июл. 15, 2024 6:43:56 PM view.CalcView createComplexNumber
+INFO: Получение комплексных чисел из строки
+июл. 15, 2024 6:43:56 PM view.CalcView Start
+INFO: Получение выражения из консоли
+июл. 15, 2024 6:43:56 PM view.CalcView SumComplexNum
+INFO: Получение суммы: ( 3.0, 1.0i ) и ( 2.0, 2.0i )
+июл. 15, 2024 6:44:39 PM view.CalcView createComplexNumber
+INFO: Получение комплексных чисел из строки
+июл. 15, 2024 6:44:39 PM view.CalcView Start
+INFO: Получение выражения из консоли
+июл. 15, 2024 6:44:39 PM view.CalcView DivisionComplexNum
+INFO: Нахождение частного чисел: ( 3.0, 1.0i ) и ( 2.0, 2.0i )
